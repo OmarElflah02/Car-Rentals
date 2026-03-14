@@ -25,3 +25,4 @@ This project is a landing page for a car rental service, including the following
 - Well-structured and organized code  
 
 ## **Live Demo:**  
+https://omarelflah02.github.io/Car-Rentals/
